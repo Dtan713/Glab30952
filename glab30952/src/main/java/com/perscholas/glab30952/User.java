@@ -1,7 +1,6 @@
-package model;
+package com.perscholas.glab30952;
 
 import lombok.AccessLevel;
-import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.experimental.FieldDefaults;
 

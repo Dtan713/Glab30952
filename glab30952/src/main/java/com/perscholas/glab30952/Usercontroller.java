@@ -1,4 +1,4 @@
-package model;
+package com.perscholas.glab30952;
 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
